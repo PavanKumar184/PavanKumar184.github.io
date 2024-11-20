@@ -1,1 +1,3 @@
-theme: time-machine
+title: My Awesome Site
+description: A simple description of my site.
+theme: jekyll-theme-some-name
